@@ -6,9 +6,9 @@
 <div align="center">🌐 I would like to become a web developer front-end or/and back-end.</div>
 <div align="center">🏴 I would like leave France and live in America</div><br>
 
-<h2 align='center'> 🛠️ I’m currently working </h2>
+<h2 align='center'> 🛠️ My work at the moment : </h2>
 <div align="center">⛏️ : I have been working with Newtown RP for 6 months. (FiveM Server, 90 SLOTS, Free-Access).</div>
-<div align="center">🌐 : I’m working for my personnal website</div>
+<div align="center">🌐 : I'm working on my website which will be released soon.</div>
 <br/>
 
 <h2 align='center'> ✍🏼 My GitHub statistics</h2>
