@@ -5,11 +5,10 @@
 <div align="center">🎓 I am a student in digital systems.</div>
 <div align="center">🌐 I would like to become a web developer front-end or/and back-end.</div>
 <div align="center">🏴 I would like leave France and live in America</div><br>
-<div align="center">⛏️ I have been working with Newtown RP for 6 months. (FiveM Server, 90 SLOTS, Free-Access).</div></br>
 
-<h2 align='center'> 🛠️ I’m currently learning </h2>
-<div align="center">⚡ : Lua | MySQL</div>
-<div align="center">🌐 : HTML | CSS | PHP | JS</div>
+<h2 align='center'> 🛠️ I’m currently working </h2>
+<div align="center">⛏️ : I have been working with Newtown RP for 6 months. (FiveM Server, 90 SLOTS, Free-Access).</div>
+<div align="center">🌐 : I’m working for my personnal website</div>
 <br/>
 
 <h2 align='center'> ✍🏼 My GitHub statistics</h2>
