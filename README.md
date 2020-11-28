@@ -15,7 +15,9 @@
 <h2 align='center'> ✍🏼 My GitHub statistics</h2>
 <div align='center'>
 
-[![KoZeuh's Github Stats](https://github-readme-stats.vercel.app/api?username=KoZeuh&show_icons=true)](https://github.com/KoZeuh)</div>
+[![KoZeuh's Github Stats](https://github-readme-stats.vercel.app/api?username=KoZeuh&show_icons=true)](https://github.com/KoZeuh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoZeuh)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 <h2 align='center'> 📱 Contact Me Bro ! </h2>
 
