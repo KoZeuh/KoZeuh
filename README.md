@@ -18,7 +18,6 @@
 [![KoZeuh's Github Stats](https://github-readme-stats.vercel.app/api?username=KoZeuh&show_icons=true)](https://github.com/KoZeuh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoZeuh)](https://github.com/anuraghazra/github-readme-stats)</div>
-<br>
 
 <h2 align='center'> 🔧 Languages and Tools:</h2>
 
@@ -30,7 +29,7 @@
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="center" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 </div>
-
+<br>
 
 <h2 align='center'> 📱 Contact Me Bro ! </h2>
 
