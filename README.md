@@ -2,13 +2,13 @@
 
 <u><h2 align='center'> 💻 About Me </h2></u>
 
-<div align="center">🎓 I am a student in digital systems.</div>
-<div align="center">🌐 I would like to become a software developer or video game developer.</div>
+<div align="center">🎓 I am a student studying web development</div>
+<div align="center">🌐 I would like to become a back-end developer or video game developer.</div>
 <div align="center">🏴 I would like leave France and live in America</div><br>
 
 <h2 align='center'> 🛠️ My work at the moment : </h2>
-<div align="center">⛏️ : I have been working with Newtown RP for 1 year.(Running on my own gamemode)(FiveM Server, 128 SLOTS, Free-Access).</div>
-<div align="center">🌐 : I'm currently learning the C# language</div>
+<div align="center">⛏️ : I have been working with Newtown RP for 2 year.(Running on my own gamemode)(FiveM Server).</div>
+<div align="center">🌐 : I'm currently learning PHP and Java languages</div>
 <br/>
 
 <h2 align='center'> ✍🏼 My GitHub statistics</h2>
@@ -25,6 +25,8 @@
 <img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="center" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="center" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 </div>
 <br>
 
