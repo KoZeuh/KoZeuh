@@ -3,11 +3,11 @@
 <u><h2 align='center'> 💻 About Me </h2></u>
 
 <div align="center">🎓 I am a student studying web development</div><br>
-<div align="center">🌐 I would like to become a back-end developer or video game developer.</div><br>
+<div align="center">🌐 I would like to become a back-end/Full Stack developer.</div><br>
 <div align="center">🏴 I would like leave France and live in America</div><br>
 
 <h2 align='center'> 🛠️ My work at the moment : </h2>
-<div align="center">⛏️ : I have been working with Newtown RP for 2 year.(Running on my own gamemode)(FiveM Server).</div><br>
+<div align="center">⛏️ : I have been working with Newtown RP for 3 years.(Running on my own gamemode)(FiveM Server).</div><br>
 <div align="center">⛏️ : I have been working with Last RP since November 2022. (FiveM Server).</div><br>
 <div align="center">🌐 : I'm currently learning Symfony framework and Java language</div>
 <br/>
