@@ -36,7 +36,8 @@
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![LUA](https://img.shields.io/badge/LUA-2C2D72?style=flat&logo=lua&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/Typescript-0079BF?style=flat&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-339933?style=flat&logo=node.js&logoColor=white)
 </div>
 
 <hr>
@@ -47,7 +48,7 @@
 
 - ⌛️ I was the lead developer **of Last RP** _from 2022 to 2023_.
 
-- 🌱 I'm currently learning **_VueJS, Tailwind_**
+- 🌱 I'm currently learning **_TypeScript, Angular, Tailwind_**
 
 - 💡 I'm currently learning how to properly use **_Docker, Figma_**
 
