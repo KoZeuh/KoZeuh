@@ -48,7 +48,7 @@
 
 - ⌛️ I was the lead developer **of Last RP** _from 2022 to 2023_.
 
-- 🌱 I'm currently learning **_TypeScript, Angular, Tailwind_**
+- 🌱 I'm currently learning **_TypeScript, Laravel, Tailwind_**
 
 - 💡 I'm currently learning how to properly use **_Docker, Figma_**
 
