@@ -42,13 +42,13 @@
 
 <hr>
 
-- 🔭 I've been the lead developer of [NewTown RP](https://www.discord.gg/newtownrp) _since 2020_.
-
 - 🛒 I am the founder and lead developer of [KOX-Core Studio](https://kox-core.tebex.io) - [(Discord)](https://www.discord.gg/pY5bdD7mZ3).
+
+- ⌛️ I was the lead developer of [NewTown RP](https://www.discord.gg/newtownrp) _from 2020 to 2024_.
 
 - ⌛️ I was the lead developer **of Last RP** _from 2022 to 2023_.
 
-- 🌱 I'm currently learning **_TypeScript, Laravel, Tailwind_**
+- 🌱 I'm currently learning **_TypeScript, VueJS, Laravel, Tailwind_**
 
 - 💡 I'm currently learning how to properly use **_Docker, Figma_**
 
