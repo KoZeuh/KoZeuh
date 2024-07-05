@@ -37,7 +37,7 @@
 ![LUA](https://img.shields.io/badge/LUA-2C2D72?style=flat&logo=lua&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-0079BF?style=flat&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-339933?style=flat&logo=node.js&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-339933?style=flat&logo=vue.js&logoColor=white)
 </div>
 
 <hr>
