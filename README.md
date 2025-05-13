@@ -44,7 +44,7 @@
 
 - 🛒 I am the founder and lead developer of [KOX-Core Studio](https://kox-core.tebex.io) - [(Discord)](https://www.discord.gg/pY5bdD7mZ3).
 
-- ⌛️ I'm the lead developer of [NewTown RP] (https://www.discord.gg/newtownrp) _since 2020_.
+- ⌛️ I'm the lead developer of [NewTown RP](https://www.discord.gg/newtownrp) _since 2020_.
 
 - ⌛️ I was the lead developer **of Last RP** _from 2022 to 2023_.
 
