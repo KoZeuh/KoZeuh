@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm **KoZeuh**
 
-<img src="https://privatent.kozeuh-dev.fr/Upload_Script/uploads/image0.jpg" alt="KoZeuh Banner" width="40%"/>
+<img src="https://privatent.kozeuh-dev.fr/Upload_Script/uploads/image0.jpg" alt="KoZeuh Banner" width="60%"/>
 
 **🧠 Apprentice Fullstack Developer**  
 🌍 Based in France | 🎯 Focused on Web and GameDev.
@@ -50,7 +50,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 </details>
 
