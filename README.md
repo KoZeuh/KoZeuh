@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm ⬇️
 
-<img src="https://privatent.kozeuh-dev.fr/Upload_Script/uploads/image0.jpg" alt="KoZeuh Banner" width="60%"/>
+<img src="https://i.postimg.cc/1X7gGw4q/kozeuh-banner.jpg" alt="KoZeuh Banner" width="60%"/>
 
 **🧠 Apprentice Fullstack Developer**  
 🌍 Based in France | 🎯 Focused on Web and GameDev.
