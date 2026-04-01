@@ -4,7 +4,6 @@
 
 <img src="https://i.postimg.cc/1X7gGw4q/kozeuh-banner.jpg" alt="KoZeuh Banner" width="60%"/>
 
-**🧠 Apprentice Fullstack Developer**  
 🌍 Based in France | 🎯 Focused on Web and GameDev.
 
 ![Profile views](https://komarev.com/ghpvc/?username=KoZeuh&style=for-the-badge&color=green&label=PROFILE+VIEWS)
@@ -16,8 +15,6 @@
 - 🛒 Founder & Lead Dev of [KOX-Core Studio](https://kox-core.tebex.io) [[Discord](https://www.discord.gg/pY5bdD7mZ3)]
 - 👨‍💻 Ex-Lead Dev of **NewTown RP** (_2020 → 2025_)
 - 🕹 Ex-Lead Dev of **Last RP** (_2022 → 2023_)
-- 📚 Currently learning:
-  - `NestJS`, `NextJS`
 
 🔗 **More about me:** [kozeuh-dev.fr](https://www.kozeuh-dev.fr)
 
