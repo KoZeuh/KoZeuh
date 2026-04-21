@@ -14,11 +14,15 @@
 
 ## <p align="center">🚀 About Me</p>
 
+<div align="center">
+  
 | | |
 |---|---|
 | 🛒 **Founder & Lead Dev** | [KOX-Core Studio](https://kox-core.tebex.io) |
 | 👨‍💻 **Ex-Lead Dev** | **NewTown RP** *(2020 → 2025)* |
 | 🕹 **Ex-Lead Dev** | **Last RP** *(2022 → 2023)* |
+
+</div>
 
 <p align="center">
   <a href="https://www.youtube.com/@kozeuhdev">
