@@ -18,6 +18,8 @@
 
 | | |
 |---|---|
+| 💻 **Founder** | [WebReflexe](https://webreflexe.fr) |
+| 🔫​ **Founder** | [WARBREACH](https://warbreach.com) |
 | 🛒 **Founder & Lead Dev** | [KOX-Core Studio](https://kox-core.tebex.io) |
 | 👨‍💻 **Ex-Lead Dev** | **NewTown RP** *(2020 → 2025)* |
 | 🕹 **Ex-Lead Dev** | **Last RP** *(2022 → 2023)* |
